@@ -20,7 +20,7 @@ This project demonstrates an implementation of **Linear Regression** from scratc
 
 You can open and run the notebook directly in **Google Colab** using the following link:
 
-https://colab.research.google.com/drive/1JA9Bm28YtAPOeU4VfElgT4DEYS6Ts5Z3?usp=sharing
+[Open in Colab](https://colab.research.google.com/drive/1JA9Bm28YtAPOeU4VfElgT4DEYS6Ts5Z3?usp=sharing)
 
 1. Click the Colab link above to open the notebook directly
 
