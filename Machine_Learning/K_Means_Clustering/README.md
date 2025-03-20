@@ -29,7 +29,8 @@ You can open and run the notebook directly in **Google Colab** using the followi
 **Or**
 
 1. Upload `K-MeansClustering_scratch.ipynb` to your Google Drive and open in Colab.
-2. Execute the cells to follow the implementation.
+2. Upload required datasets to the Files section under Files > Upload in Colab.
+3. Execute the cells to follow the implementation.
 
 ## 📊 Results & Insights
 
