@@ -5,8 +5,7 @@ This project demonstrates an implementation of **Linear Regression** from scratc
 ## 📂 Project Structure
 
 - LinearRegression_scratch.ipynb - Google Colab notebook implementing linear regression step by step.
-- data/ - Sample datasets used for training and testing.
-- plots/ - Visualizations of model performance and predictions.
+- Datasets/ - Sample datasets used for training and testing.
 
 ## 📚 Concepts Covered
 
